@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Maps</string>
+    <string name="title_activity_display_map">Map</string>
+    <string name="title_activity_create_map">Map</string>
+
+    <string name="marker_prompt">Choose a marker</string>
+    <string-array name="marker_choices">
+        <item>Red Marker</item>
+        <item>Blue Marker</item>
+        <item>Red Marker w/ Star</item>
+        <item>Red Marker w/ Target</item>
+    </string-array>
+</resources>
