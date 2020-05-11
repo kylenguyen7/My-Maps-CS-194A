@@ -25,7 +25,7 @@ The following **extensions** are implemented:
 Here's a walkthrough of My Maps:
 
 <img src='https://i.imgur.com/43dogsL.gif' title='Exploring Maps' width='' alt='Video Walkthrough' />
-<img src='https://i.imgur.com/TYqoEyO.mp4' title='Creating New Maps' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ishJpA5.gif' title='Creating New Maps' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).
 
