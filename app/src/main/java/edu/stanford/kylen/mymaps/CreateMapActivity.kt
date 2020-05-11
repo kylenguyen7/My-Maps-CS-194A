@@ -121,6 +121,7 @@ class CreateMapActivity : AppCompatActivity(), OnMapReadyCallback {
 
             // Custom marker
             val myMarker : BitmapDescriptor
+
             when(markerName) {
                 "Red Marker" -> myMarker = BitmapDescriptorFactory.fromResource(R.drawable.redmarkercircle)
                 "Blue Marker" -> myMarker = BitmapDescriptorFactory.fromResource(R.drawable.bluemarkercircle)
@@ -134,6 +135,7 @@ class CreateMapActivity : AppCompatActivity(), OnMapReadyCallback {
                 .position(latLng)
                 .title(title).snippet(desc)
                     .icon(myMarker))
+
             markers.add(marker)
             dialog.dismiss()
         }
